@@ -1,0 +1,1 @@
+fastapi\nuvicorn\npydantic\nsqlalchemy\npsycopg2\npytesseract\neasyocr\nweasyprint\npandas\nopenpyxl\n
